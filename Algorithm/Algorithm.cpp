@@ -12,7 +12,7 @@ using namespace std;
 // 출력 예제
 // 45
 
-int main()
+int main_()
 {
     int n, m, sum = 0;
     cout << "n을 입력해 주세요" << endl;
